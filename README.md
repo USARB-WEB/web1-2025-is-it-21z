@@ -3,6 +3,16 @@
 ## Tools
 ### Git
 - Git https://git-scm.com/
+Git tutorials:
+- https://git-scm.com/
+- https://youtu.be/PEKN8NtBDQ0
+- https://youtu.be/9d5bJc8o7MA
+- https://youtu.be/vFj2-bKGwkw
+- http://github.com/
+- https://www.youtube.com/watch?v=v0Ch3yWQ-Zc
+- https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages/
+
+
 ### NodeJS & NPM
 - Node JS https://nodejs.org/en
 - Node Package manager https://www.npmjs.com/
