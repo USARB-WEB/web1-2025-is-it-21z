@@ -19,3 +19,6 @@
 - React https://react.dev/
 - Angular https://angular.dev/
 - Vue https://vuejs.org/
+
+# Practical tasks
+https://github.com/USARB-WEB/js-tasks
