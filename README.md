@@ -22,3 +22,6 @@
 
 # Practical tasks
 https://github.com/USARB-WEB/js-tasks
+
+# ToR example
+https://docs.google.com/document/d/1L2TvUOG2BJsF3T_ItDeyuAzyIzYoRAXV/edit?usp=sharing&ouid=112800070006295859369&rtpof=true&sd=true
