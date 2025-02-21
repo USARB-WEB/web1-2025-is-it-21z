@@ -25,6 +25,10 @@ Git tutorials:
 - Code Sandbox https://codesandbox.io/
 - JS Fiddle https://jsfiddle.net/
 
+# UI/UX tools
+- Online design editor https://figma.com/
+- Icons https://pictogrammers.com/library/mdi/
+
 # Frontend frameworks/libraries
 - jQuery https://jquery.com/
 - React https://react.dev/
