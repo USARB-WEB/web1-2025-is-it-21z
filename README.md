@@ -41,5 +41,6 @@ https://github.com/USARB-WEB/js-tasks
 # ToR example
 https://docs.google.com/document/d/1L2TvUOG2BJsF3T_ItDeyuAzyIzYoRAXV/edit?usp=sharing&ouid=112800070006295859369&rtpof=true&sd=true
 
-# Learning react based on Real project
-- https://github.com/sergiuchilat/react-2025
+# Learning react 
+- Based on Real project https://github.com/sergiuchilat/react-2025
+- Based on practical tasks https://react-tutorial.app/
