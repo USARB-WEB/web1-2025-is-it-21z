@@ -13,6 +13,8 @@ Git tutorials:
 - https://www.youtube.com/watch?v=v0Ch3yWQ-Zc
 - https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages/
 
+## Json Tool
+- https://jsoneditoronline.org/
 
 ### NodeJS & NPM
 - Node JS https://nodejs.org/en
