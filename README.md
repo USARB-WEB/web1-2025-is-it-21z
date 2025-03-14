@@ -50,3 +50,6 @@ https://docs.google.com/document/d/1L2TvUOG2BJsF3T_ItDeyuAzyIzYoRAXV/edit?usp=sh
 - Based on Real project https://github.com/sergiuchilat/react-2025
 - Based on practical tasks https://react-tutorial.app/
 - Rest API tutorial https://www.geeksforgeeks.org/rest-api-introduction/
+
+# API
+ - JSON Placeholder https://jsonplaceholder.typicode.com/
