@@ -46,12 +46,13 @@ https://docs.google.com/document/d/1L2TvUOG2BJsF3T_ItDeyuAzyIzYoRAXV/edit?usp=sh
 # UML diagram with examples
 - https://drive.google.com/file/d/1egcpHrXkey6GHhATAZbfDSfuGzH8BUgz/view?usp=sharing
 
-# Learning react 
+# Learning React 
 - Based on Real project https://github.com/sergiuchilat/react-2025
 - Based on practical tasks https://react-tutorial.app/
 - Rest API tutorial https://www.geeksforgeeks.org/rest-api-introduction/
 - Pure React i18n example https://codesandbox.io/p/sandbox/confident-newton-74ys8q
 - Next 15 + i18n example https://github.com/sergiuchilat/next-15-starter
+- I18n for Next 15 https://medium.com/@f3ssoftware/internationalization-with-next-js-15-and-react-intl-6b67b5a2d28d
 
 # API
  - JSON Placeholder https://jsonplaceholder.typicode.com/
